@@ -1,0 +1,68 @@
+/*This is a CSS comment 
+   All of this is comment
+    */
+    
+/*
+    body {
+      background-color: aqua
+    }
+    h1 
+    {color: red;
+    }
+    header h1 {
+      color: purple;
+    }
+    img { 
+      width: 60%; 
+      height: auto;
+    }
+    nav {
+      background-color: bisque;
+    }
+    
+    #main {
+      color: gray;}
+    }
+    .highlight {
+      color: yellow;
+    }
+    aside .highlight {
+      background-color: green;
+    }
+    
+    a {
+      text-decoration:line-through;
+    }
+    
+     a:hover {
+      text-decoration:underline; font-size:1.53em; 
+    }
+    p:first-letter {
+      font-size:2em;
+      color: purple; 
+      
+    }
+*/
+    
+    h1:hover {color: green;
+      
+    }
+    header {
+      width: 75%;
+      margin:auto; 
+        
+    }
+    article {
+     width: 50%
+       margin:auto;  
+    }
+    body {
+      text-align: center}
+    a {
+      text-decoration:none; 
+    }
+    footer {
+      border: 1px solid red;
+      border-radius: 25px; 
+    }
+  </style>
